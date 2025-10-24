@@ -1,0 +1,14 @@
+# ANSYS Maxwell files
+*.lock
+*.tmp
+*.bak
+*~
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.temp
+*.swp
